@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/slack-clone/static/css/main.06842a64.css",
+    "main.js": "/slack-clone/static/js/main.a8ac35c0.js",
+    "static/js/787.0530f370.chunk.js": "/slack-clone/static/js/787.0530f370.chunk.js",
+    "index.html": "/slack-clone/index.html",
+    "main.06842a64.css.map": "/slack-clone/static/css/main.06842a64.css.map",
+    "main.a8ac35c0.js.map": "/slack-clone/static/js/main.a8ac35c0.js.map",
+    "787.0530f370.chunk.js.map": "/slack-clone/static/js/787.0530f370.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06842a64.css",
+    "static/js/main.a8ac35c0.js"
+  ]
+}
